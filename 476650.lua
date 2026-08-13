@@ -1,10 +1,4 @@
--- 476650's Lua and Manifest Created by Hubcap Manifest
--- The Silver Case
--- Created: October 01, 2025 at 00:50:17 EDT
--- Website: https://hubcapmanifest.com/
--- Total Depots: 4
--- Total DLCs: 1
-
+-- use steamtools.pages.dev for the best results
 -- MAIN APPLICATION
 addappid(476650) -- The Silver Case
 -- MAIN APP DEPOTS
@@ -19,3 +13,4 @@ setManifestid(476653, "435095679675438413", 6793815477)
 addappid(533570)
 addappid(533570, 1, "212e3ebeef7b649d3968f18b1e67ac1ec45a7201a9b69a28cf78aa6f56ba28c6") -- The Silver Case The Extra Contents - The Silver Case: The Deluxe Pack (533570) Depot
 setManifestid(533570, "3719891408426837923", 1516880020)
+-- discord https://discord.gg/Xx2qdXCvKY
