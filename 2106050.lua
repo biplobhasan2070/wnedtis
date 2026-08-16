@@ -1,0 +1,5 @@
+-- Website: https://steamtools.manifesthub.uk
+addappid(2106050)
+addappid(2106051, 1, "fc0e2e205356ec748f3a57c9ee69b10b10228c4d35cd2df0bb5e0206c88ac31a")
+setManifestid(2106051, "709519811886677295", 2954320324)
+-- Discord: https://discord.gg/Xx2qdXCvKY
