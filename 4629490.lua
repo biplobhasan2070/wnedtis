@@ -1,6 +1,14 @@
 -- Website: https://steamtools.manifesthub.uk
-addappid(4629490)
-addappid(4795100)
-addappid(4629491, 1, "743af18c254f870331f5a91463d13eea904371d6d61f868825373bb9a46a6abc")
+-- MAIN APPLICATION
+addappid(4629490, 1, "92e61ad5086dd9b10c47e0e3a20086493801a0c76d5e3d4208e31b461de9eb9e") -- 魔王的后宫~异世界温柔乡~
+-- MAIN APP DEPOTS
+addappid(4629491, 1, "743af18c254f870331f5a91463d13eea904371d6d61f868825373bb9a46a6abc") -- Depot 4629491
 setManifestid(4629491, "5274777789313787853", 1692858807)
+addappid(4629492, 1, "425947a594c5b03b2f496a3c465af9e4eda9beaa025508f7910c39a3b2896a27") -- Depot 4629492
+setManifestid(4629492, "1720059417276706569", 2002806019)
+-- DLCS WITH DEDICATED DEPOTS
+--  - (AppID: 4795100)
+addappid(4795100)
+addappid(4795100, 1, "0c59d55de6c40c2ac02faaa7287b25fdce37521a6a6ebb1c3e9b658c60dcedd8") --  - - Depot 4795100
+setManifestid(4795100, "538602468532250554", 1692858814)
 -- Discord: https://discord.gg/Xx2qdXCvKY
