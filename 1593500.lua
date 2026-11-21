@@ -1,0 +1,8 @@
+addappid(1593500)
+addappid(1593501, 1, "77f7390a115063bccc41240f71e0bf27d42c6a7c0424657756fe3f99f26a287a")
+setManifestid(1593501, "2535153423663269664", 0)
+
+--[[
+This file Generated using fares.top Website 
+-----> join discord Server : https://discord.gg/steamgames 
+]]
