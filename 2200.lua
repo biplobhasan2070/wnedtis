@@ -1,0 +1,12 @@
+-- 2200's Lua and Manifest Created by Hubcap Manifest
+-- Quake III Arena
+-- Created: September 30, 2025 at 08:42:38 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 1
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(2200) -- Quake III Arena
+-- MAIN APP DEPOTS
+addappid(2201, 1, "2258e9896f9aa441c43568358fb59c20b85d6c06a87dec3e7e0ec6ce444d5bb5") -- Quake 3 Arena content
+setManifestid(2201, "8575178398231350170", 513401161)
