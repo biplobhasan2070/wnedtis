@@ -1,0 +1,33 @@
+-- 246620's Lua and Manifest Created by Morrenus
+-- Plague Inc: Evolved
+-- Branch: PUBLIC
+-- Created: January 07, 2026 at 12:27:11 EST
+-- Website: https://manifest.morrenus.xyz/
+-- Total Depots: 9
+-- Total DLCs: 1
+-- Shared Depots: 3
+
+-- MAIN APPLICATION
+addappid(246620, 1, "540f338bcb2eb1e9d469f9302ea6b60481008cef56be0e01e378a92f72041732") -- Plague Inc: Evolved
+-- MAIN APP DEPOTS
+addappid(246621, 1, "19ad23e511f566d12808b52a4cfabb6457d8acc91815acbaddc6fdfe76dacfbe") -- Plague Inc: Evolved Depot - PC
+setManifestid(246621, "5459605381722729517", 1137982832)
+addappid(246622, 1, "dd2e9f4b104c4ce27c22dadf3dd13210e54a51c0fa09f14addd72d8c05121f89") -- Plague Inc: Evolved Depot - Mac
+setManifestid(246622, "3089733293902482026", 1142023716)
+addappid(246623, 1, "516e04bc485cebe525f9d28a727a2fbc29aad932656bcb36238448797d52a337") -- Plague Inc: Evolved Depot - Linux
+setManifestid(246623, "8173497939696713468", 1152016483)
+addappid(246624, 1, "b7170469891310d1335cb12516164cff304a536657ad2c35fad0950719133123") -- Depot 246624
+setManifestid(246624, "712597846969897429", 193682344)
+addappid(246625, 1, "3c1666a26d525bf81d9b9c90bbd47b0fd637db2d2056950f5a9c8c72f76109bb") -- Depot 246625
+setManifestid(246625, "8060770308095908779", 195821014)
+addappid(246626, 1, "8d0fb3394cd06ae93b744373a1024f9a4c4b5c4a1e30ed95fadbb05718d02ff2") -- Depot 246626
+setManifestid(246626, "1898025581291238622", 231643815)
+-- SHARED DEPOTS (from other apps)
+addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- VC 2010 Redist (Shared from App 228980)
+setManifestid(228983, "8124929965194586177", 19265607)
+addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") -- VC 2015 Redist (Shared from App 228980)
+setManifestid(228986, "8782296191957114623", 29759921)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(1472780) -- Plague Inc The Cure
